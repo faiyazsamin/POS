@@ -1,0 +1,62 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Shwarma",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Bread",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Cake",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Water",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Noodles",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "Soup",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "title": "French Fry",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "title": "Chicken Momo",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 9,
+    "title": "Soft Drinks",
+    "completed": true
+  },
+  {
+    "userId": 1,
+    "id": 10,
+    "title": "Friend Rice",
+    "completed": true
+  }
+]
